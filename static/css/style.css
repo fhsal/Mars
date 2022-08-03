@@ -1,0 +1,21 @@
+
+
+.jumbotron {
+    text-align: center;
+    height: 250px;
+    padding-top: 5px;
+    color: white;
+    background:url('http://bestanimations.com/Nature/clouds-flowing-over-lake-mountains-nature-animated-gif.gif');
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size:auto;
+    border-radius: 0;
+    border-bottom: 10px solid black;
+  }
+
+.btn-warning {
+    color: #fff;
+    background-color: coral;
+    border-color: black;
+}
+
