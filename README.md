@@ -23,15 +23,20 @@ The effort involved using Chrome developer tools to inspect pages and identify e
 
 **Page header with jumbotron and button styled using style.scc**
 
-![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/images/randomOverSampler.png)
+![img](https://github.com/fhsal/Mars/blob/main/images/jumbotron.png)
 
 
 **Page body with news summary, main image and table of facts**
 
-![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/images/randomOverSampler.png)
+![img](https://github.com/fhsal/Mars/blob/main/images/mid-page.png)
 
 
 **Hemisphere images shown in a single row using Bootstrap**
 
-![img](https://github.com/fhsal/Credit_Risk_Analysis/blob/main/images/randomOverSampler.png)
+![img](https://github.com/fhsal/Mars/blob/main/images/hemispheres.png)
+
+
+**Mongo database with stored hemisphere information**
+
+![img](https://github.com/fhsal/Mars/blob/main/images/mongo.png)
 
