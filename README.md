@@ -21,22 +21,22 @@ The effort involved using Chrome developer tools to inspect pages and identify e
 
 ## Rendered page and Mongo database images
 
-# Page header with jumbotron and button styled using style.scc
+### Page header with jumbotron and button styled using style.scc
 
 ![img](https://github.com/fhsal/Mars/blob/main/images/jumbotron.png)
 
 
-# Page body with news summary, main image and table of facts
+### Page body with news summary, main image and table of facts
 
 ![img](https://github.com/fhsal/Mars/blob/main/images/mid-page.png)
 
 
-# Hemisphere images shown in a single row using Bootstrap
+### Hemisphere images shown in a single row using Bootstrap
 
 ![img](https://github.com/fhsal/Mars/blob/main/images/hemispheres.png)
 
 
-# Mongo database with stored hemisphere information
+### Mongo database with stored hemisphere information
 
 ![img](https://github.com/fhsal/Mars/blob/main/images/mongo.png)
 
